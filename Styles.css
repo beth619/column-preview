@@ -1,0 +1,89 @@
+
+body{
+
+background-color:hsl(0, 0%, 95%);
+
+}
+p{
+   color: hsla(0, 0%, 100%, 0.75);
+   font-family: 'Lexend Deca', sans-serif;
+   font-size:14px;
+   margin-top:25px;
+   line-height:22px;
+}
+h1{
+    color:  hsl(0, 0%, 95%); 
+    font-family: 'Big Shoulders Display]', sans-serif;
+    font-weight: 700;
+  letter-spacing:-2px;
+   
+    
+}
+.main-div{
+display:flex;
+align-items:center;
+justify-content:center;
+padding:100px;
+margin:0 auto;
+position:absolute;
+top:8%;
+bottom:4%;
+right:2%;
+left:2%;
+background-color:hsl(0, 0%, 95%);
+
+
+}
+
+.sedans-div{
+background-color: hsl(31, 77%, 52%);
+height:350px;
+width:200px;
+padding:35px;
+
+}
+.suvs-div{
+    background-color: hsl(184, 100%, 22%) ;
+    height:350px;
+width:200px;
+padding:35px;
+}
+.luxury-div{
+    background-color: hsl(179, 100%, 13%);
+    height:350px;
+width:200px;
+padding:35px;
+}
+.button{
+  color: hsl(0, 0%, 95%);
+ 
+}
+
+.button1{
+color:hsl(31, 77%, 52%);
+
+border:none;
+width:150px;
+height:40px;
+border-radius:20px;
+margin-top:60px;
+}
+.button2{
+    color: hsl(184, 100%, 22%) ;
+    border-radius:10px;
+border:none;
+width:150px;
+height:40px;
+border-radius:20px;
+margin-top:60px;
+
+}
+.button3{
+    color: hsl(179, 100%, 13%);
+    border-radius:10px;
+border:none;
+width:150px;
+height:40px;
+border-radius:20px;
+margin-top:60px;
+}
